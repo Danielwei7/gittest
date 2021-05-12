@@ -1,2 +1,6 @@
 this is file1.
+<<<<<<< HEAD
 add a new line
+=======
+add a sec line
+>>>>>>> testbranch1
